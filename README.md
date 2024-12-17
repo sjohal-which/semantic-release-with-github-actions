@@ -31,6 +31,7 @@ Read more at https://github.com/features/actions or what a short demo at https:/
 - [ ] `npm i -D semantic-release`
 - [ ] Use semantic commit messages
 - [ ] Create a pull request
+
 ```
 
 ## Example Workflow
